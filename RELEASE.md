@@ -1,19 +1,4 @@
-# `struct2tensor` release notes
-
-# Current Version (not yet released; still in development)
-
-## Major Features and Improvements
-
-## Bug Fixes and Other Changes
-
-*   Added doc with benchmark numbers. Also added the benchmark code and test
-    data.
-
-## Breaking Changes
-
-## Deprecations
-
-## Version 0.32.0
+# Version 0.32.0
 
 ## Major Features and Improvements
 
